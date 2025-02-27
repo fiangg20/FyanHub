@@ -1,7 +1,7 @@
 # FyanHub
 
-FyanHub Script
+# FyanHub Script
 
 ```
-example
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fiangg20/FyanHub/refs/heads/main/FyanHub.lua"))()
 ```
